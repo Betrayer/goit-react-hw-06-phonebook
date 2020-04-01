@@ -1,0 +1,15 @@
+.noice {
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.contactList {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.contactListWrapper {
+  width: 700px;
+}

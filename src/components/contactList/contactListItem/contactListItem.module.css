@@ -1,0 +1,18 @@
+span {
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 20px;
+}
+
+.contactListItem {
+  display: flex;
+  width: 700px;
+  justify-content: space-between;
+}
+
+.deleteButt {
+  margin: 0;
+}
+
+.contactListItem {
+  margin-bottom: 20px;
+}
